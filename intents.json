@@ -114,14 +114,13 @@
       ]
     },
     {
-      "tag": "contact",
+      "tag": "sport",
       "patterns": [
-      "Where can i contact the college?",
-      "What is the mail ID?",
-      "Can i get the e-mail id?"
+      "does the college allow sports?",
+      "what facilities are there for sports?"
       ],
       "responses": [
-        "The mail ID is principal_nmamit@nitte.edu.in"
+        "There are facilities for all sports in B.C Alva stadium."
       ]
     },
     {
@@ -196,7 +195,7 @@
       "What electives are offered?"
       ],
       "responses": [
-        "The HOD of computer science is Dr. Uday Kumar Reddy K.R"
+        "MULTICORE ARCHITECTURE & PROGRAMMING, EMBEDDED SYSTEMS, OPERATION RESEARCH, CAD FOR VLSI & VHDL"
       ]
     },
     {
