@@ -20,7 +20,7 @@ conda install nltk
  ```
  
  ```console
-$ python
+anaconda promt: python
 >>> import nltk
 >>> nltk.download('punkt')
 ```
