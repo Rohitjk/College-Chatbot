@@ -1,0 +1,225 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "Which courses do you have?",
+        "What kinds of courses are there?",
+        "What are offered?"
+      ],
+      "responses": [
+        " BE in Biotechnology, Civil Engineering, Computer Science & Engineering, Electrical & Electronics Engineering, Electronics & Communication Engineering, Information Science & Engineering and Mechanical Engineering are accredited by NBA, New Delhi "
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "rank",
+      "patterns": [
+        "What is the college rank?",
+        "What is the NIRF rank?"
+      ],
+      "responses": [
+        "The NIRF rank is 133.",
+        "Grade - 'A' by NAAC"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "affiliated",
+      "patterns": [
+        "is the college affiliated?",
+        "is it autonomous?",
+        "is it under VTU?",
+        "When was the college established?"
+      ],
+      "responses": [
+        "NMAM Institute of Technology was established in 1986 and is affiliated to the Visvesvaraya Technological University, Belagavi."
+      ]
+    },
+    {
+      "tag": "placement",
+      "patterns": [
+      "What are the placements?",
+      "How are the placements?",
+      "Is the placements good?"
+      ],
+      "responses": [
+        "There are 700+ placements every year by many MNC's."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+      "Where can i contact the college?",
+      "What is the mail ID?",
+      "Can i get the e-mail id?",
+      "What is the phone number?"
+      ],
+      "responses": [
+        "The mail ID is principal_nmamit@nitte.edu.in and call +91 - 8258 - 281039"
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+      "Where can i contact the college?",
+      "What is the mail ID?",
+      "Can i get the e-mail id?"
+      ],
+      "responses": [
+        "The mail ID is principal_nmamit@nitte.edu.in"
+      ]
+    },
+    {
+      "tag": "principal",
+      "patterns": [
+      "How is the principal?",
+      "what is the name of the principal?"
+      ],
+      "responses": [
+        "The name of our principal is Dr. Niranjan N Chiplunkar"
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+      "Where is the college located?",
+      "How far is college from mangalore?",
+      "Which city is the college in?"
+      ],
+      "responses": [
+        "The college is in Nitte taluk, Karkala, Udupi",
+        "The college is an hour away from mangalore"
+      ]
+    },
+    {
+      "tag": "clubs",
+      "patterns": [
+      "What are the clubs in college?",
+      "which clubs are there?"
+      ],
+      "responses": [
+        "AERO CLUB, ROBOTICS CLUB, Internet Of Things (IoT) Club, SAE- BAJA (TEAM NITTE RACING), FINITE LOOP CLUB"
+      ]
+    },
+    {
+      "tag": "library",
+      "patterns": [
+      "is there a library?",
+      "How many books in the library?",
+      "How big is the library?"
+      ],
+      "responses": [
+        "The NMAMIT Central Library is housed in the main wing of the college academic building and open from 8.00 am to 11.00 p.m",
+        "The total area of the library is 31000sft and accommodates 750 students at a time.",
+        "The library has a collection of 86068 volumes of text and reference books."
+      ]
+    },
+    {
+      "tag": "intake",
+      "patterns": [
+      "What is the intake for CS?",
+      "What is the intake for Mechanical?"
+      ],
+      "responses": [
+        "The intake for each stream is 180."
+      ]
+    },
+    {
+      "tag": "HOD",
+      "patterns": [
+      "Who is the HOD for CS?",
+      "Who is the hod??"
+      ],
+      "responses": [
+        "The HOD of computer science is Dr. Uday Kumar Reddy K.R"
+      ]
+    },
+    {
+      "tag": "Electives",
+      "patterns": [
+      "What are the electives?",
+      "What electives are offered?"
+      ],
+      "responses": [
+        "The HOD of computer science is Dr. Uday Kumar Reddy K.R"
+      ]
+    },
+    {
+      "tag": "Hostel",
+      "patterns": [
+      "are there hostel facilities",
+      "What is the hostel offered?"
+      ],
+      "responses": [
+        "NMAMIT has separate hostel blocks for Boys and Girls on sharing basis in order to provide a good environment to the students to continue their studies in a healthy and caring atmosphere. Almost 50% of the students stay at Hostels.",
+        "NMAMIT has 7 boys hostel blocks and 4 girls’ hostel blocks in the campus. Each hostel block is managed under the supervision of a Manager and co-workers at the hostel block. Each room in all the hostels has been furnished with cots, tables, chairs, wardrobe and a ceiling fan."
+      ]
+    },
+    {
+      "tag": "fest",
+      "patterns": [
+      "Does the college have a fest?",
+      "is there a cultural fest?"
+      ],
+      "responses": [
+        "NMAMIT hosts INCRIDEA a national level techno-cultural festival."
+      ]
+    },
+
+  ]
+}
