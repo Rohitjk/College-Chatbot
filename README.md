@@ -1,5 +1,5 @@
 # College-Chatbot
-A chatbot for NMAM Institute of Technology.
+A chatbot for NMAM Institute of Technology. It is implemented with a feed forward neural network with 2 hidden layers.
 ## Installation
 
 ### Create an environment
